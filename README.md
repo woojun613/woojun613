@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=WooJun%20Jang&fontSize=90">
 </div>
 
-<h2 align="center">안녕하세요, 정보보안 컨설턴트 겸 개발자 장우준입니다.</h2>
+<h2 align="center">안녕하세요, 개발자 장우준입니다.</h2>
 <p align="center">기술적 깊이와 사용자 경험(UX)의 조화를 지향합니다.</p>
 <br>
 
